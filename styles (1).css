@@ -1,0 +1,26 @@
+/* Custom Styles */
+body {
+  background-color: #f0f0f0;
+}
+
+.card {
+  margin-top: 50px;
+}
+
+.card-header, .card-footer {
+  background-color: #1DB954;
+}
+
+.card-footer a {
+  color: #fff;
+}
+
+.btn-success {
+  background-color: #1DB954;
+  border-color: #1DB954;
+}
+
+.btn-success:hover {
+  background-color: #1ed760;
+  border-color: #1ed760;
+}
